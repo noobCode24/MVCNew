@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpword": "^1.2",
+        "groupdocscloud/groupdocs-viewer-cloud": "^21.12",
+        "aspose-cloud/aspose-words-cloud": "^21.4"
+    }
+}
